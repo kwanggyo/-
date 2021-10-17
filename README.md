@@ -1,6 +1,6 @@
 # 반지
 
-<img src="README.assets/ring.png" align="left" height="100px" width="100px">
+<div><img src="README.assets/ring.png" align="left" height="100px" width="100px"></div>
 
 <br>
 
@@ -98,7 +98,7 @@
 
 ### ERD
 
-- DB를 이용하지 않고 소켓통신으로 구현하였다
+- DB를 이용하지 않고 소켓통신으로 구현
 
 ### 아키텍쳐
 

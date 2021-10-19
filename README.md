@@ -2,6 +2,10 @@
 
 <div><img src="README.assets/ring.png" align="left" height="100px" width="100px"></div>
 
+
+
+
+
 <br>
 
 <br>
@@ -102,7 +106,7 @@
 
 ### 아키텍쳐
 
-
+![image-20211019213924225](README.assets/image-20211019213924225.png)
 
 <br>
 
